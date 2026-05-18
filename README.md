@@ -5,6 +5,14 @@
 
 ---
 
+## 🚀 Live Demo
+
+👉 **[Try the app here](https://ipl-analytics-nx2k2y7sc8xl96hbtc6p84.streamlit.app/)**
+
+![App Screenshot](screenshot.png)
+
+---
+
 ## 📌 Project Overview
 
 This project builds a complete machine learning pipeline that:
