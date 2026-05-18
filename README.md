@@ -41,7 +41,7 @@ ipl-analytics/
 
 ### 1. Clone & install dependencies
 ```bash
-git clone https://github.com/YOUR_USERNAME/ipl-analytics.git
+git clone https://github.com/sidharthmv9958-cpu/ipl-analytics.git
 cd ipl-analytics
 pip install -r requirements.txt
 ```
@@ -130,4 +130,4 @@ Deploy the dashboard for free on **Streamlit Community Cloud**:
 ## 👨‍💻 Author
 
 Built as a portfolio data science project.  
-Connect on [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+Connect on [LinkedIn](https://linkedin.com/sidharthmv9958) | [GitHub](https://github.com/sidharthmv9958-cpu)
