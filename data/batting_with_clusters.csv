@@ -1,0 +1,217 @@
+batter,innings,total_runs,total_balls,avg_runs,fours,sixes,fifties,hundreds,strike_rate,runs_Death,runs_Middle,runs_Powerplay,strike_rate_Death,strike_rate_Middle,strike_rate_Powerplay,form_avg_last10,best_venue,best_venue_runs,best_venue_sr,pvs_batting,cluster,archetype
+A Ashish Reddy,23,280,193,12.17,16,15,0,0,145.08,214.0,61.0,5.0,146.58,148.78,83.33,13.9,"Rajiv Gandhi International Stadium, Uppal",93.0,120.78,31.45,1.0,Finisher / Death Specialist
+A Badoni,35,634,472,18.11,46,24,4,0,134.32,380.0,236.0,18.0,161.7,118.0,48.65,22.6,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",55.0,183.33,37.81,1.0,Finisher / Death Specialist
+A Mishra,55,381,417,6.93,31,5,0,0,91.37,260.0,120.0,1.0,104.84,73.17,20.0,7.8,"Rajiv Gandhi International Stadium, Uppal",50.0,111.11,15.65,1.0,Finisher / Death Specialist
+A Symonds,36,974,745,27.06,74,41,6,1,130.74,293.0,609.0,72.0,160.99,126.61,87.8,13.7,Feroz Shah Kotla,54.0,180.0,42.42,0.0,Powerplay Dominator
+AB de Villiers,170,5181,3400,30.48,414,253,44,3,152.38,1868.0,2572.0,741.0,225.33,131.43,120.68,18.4,Holkar Cricket Stadium,89.0,193.48,66.63,0.0,Powerplay Dominator
+AC Gilchrist,80,2069,1483,25.86,239,92,13,2,139.51,63.0,621.0,1385.0,196.88,146.12,134.99,27.0,Kingsmead,143.0,198.61,51.29,0.0,Powerplay Dominator
+AD Mathews,41,724,573,17.66,44,29,1,0,126.35,425.0,289.0,10.0,155.11,102.48,58.82,14.3,Feroz Shah Kotla,103.0,151.47,33.52,1.0,Finisher / Death Specialist
+AD Russell,104,2488,1407,23.92,171,209,11,0,176.83,1324.0,1123.0,41.0,196.15,157.06,241.18,22.9,"Wankhede Stadium, Mumbai",161.0,223.61,57.92,0.0,Powerplay Dominator
+AJ Finch,90,2092,1626,23.24,214,78,15,0,128.66,282.0,899.0,911.0,158.43,136.63,115.32,18.3,"Brabourne Stadium, Mumbai",65.0,196.97,44.34,0.0,Powerplay Dominator
+AK Markram,42,995,764,23.69,73,35,5,0,130.24,224.0,671.0,100.0,183.61,126.37,90.09,20.2,"Brabourne Stadium, Mumbai",110.0,180.33,41.59,1.0,Finisher / Death Specialist
+AL Menaria,23,401,354,17.43,24,18,0,0,113.28,97.0,296.0,8.0,124.36,110.45,100.0,16.1,"Punjab Cricket Association Stadium, Mohali",68.0,128.3,30.41,1.0,Finisher / Death Specialist
+AM Nayar,50,672,573,13.44,55,20,0,0,117.28,310.0,297.0,65.0,158.97,96.74,91.55,5.9,Kingsmead,60.0,153.85,25.75,1.0,Finisher / Death Specialist
+AM Rahane,171,4642,3757,27.15,479,103,32,2,123.56,509.0,1814.0,2319.0,158.57,122.57,118.56,20.3,Brabourne Stadium,136.0,167.9,54.98,0.0,Powerplay Dominator
+AP Tare,27,339,272,12.56,40,11,1,0,124.63,40.0,73.0,226.0,153.85,162.22,112.44,6.0,Wankhede Stadium,111.0,163.24,25.61,1.0,Finisher / Death Specialist
+AR Patel,112,1653,1259,14.76,107,79,3,0,131.29,900.0,721.0,32.0,152.03,114.26,88.89,19.9,"Brabourne Stadium, Mumbai",60.0,193.55,37.16,1.0,Finisher / Death Specialist
+AT Rayudu,185,4348,3391,23.5,359,173,23,1,128.22,1179.0,2392.0,777.0,170.38,121.36,106.73,11.9,"Punjab Cricket Association IS Bindra Stadium, Mohali",65.0,175.68,50.09,0.0,Powerplay Dominator
+Abdul Samad,39,579,394,14.85,37,36,0,0,146.95,392.0,185.0,2.0,168.24,116.35,100.0,13.8,Sheikh Zayed Stadium,70.0,175.0,34.82,1.0,Finisher / Death Specialist
+Abhishek Sharma,61,1377,883,22.57,128,73,7,0,155.95,160.0,459.0,758.0,155.34,151.99,158.58,27.3,"Arun Jaitley Stadium, Delhi",113.0,235.42,49.4,0.0,Powerplay Dominator
+Anuj Rawat,21,318,267,15.14,26,14,1,0,119.1,142.0,93.0,83.0,175.31,94.9,94.32,17.3,"Maharashtra Cricket Association Stadium, Pune",66.0,140.43,29.97,1.0,Finisher / Death Specialist
+Azhar Mahmood,21,388,303,18.48,39,13,2,0,128.05,123.0,243.0,22.0,135.16,129.26,91.67,19.4,M Chinnaswamy Stadium,63.0,140.0,35.02,1.0,Finisher / Death Specialist
+B Chipli,21,280,250,13.33,28,7,1,0,112.0,100.0,125.0,55.0,178.57,105.04,73.33,9.9,"Rajiv Gandhi International Stadium, Uppal",118.0,135.63,24.8,1.0,Finisher / Death Specialist
+B Kumar,65,306,325,4.71,30,3,0,0,94.15,280.0,26.0,0.0,96.55,74.29,0.0,6.5,Subrata Roy Sahara Stadium,59.0,92.19,13.89,1.0,Finisher / Death Specialist
+B Sai Sudharsan,25,1034,735,41.36,95,32,7,1,140.68,171.0,591.0,272.0,206.02,140.38,117.75,44.5,"Narendra Modi Stadium, Ahmedabad",603.0,156.22,64.55,0.0,Powerplay Dominator
+BA Stokes,43,935,695,21.74,81,32,4,2,134.53,207.0,488.0,240.0,165.6,125.45,132.6,29.5,Sheikh Zayed Stadium,176.0,181.44,43.8,0.0,Powerplay Dominator
+BB McCullum,109,2882,2176,26.44,293,130,15,2,132.44,181.0,1144.0,1557.0,190.53,132.41,127.94,18.3,Green Park,54.0,180.0,50.4,0.0,Powerplay Dominator
+BJ Hodge,63,1400,1112,22.22,122,43,6,0,125.9,606.0,646.0,148.0,164.67,111.0,91.36,22.5,SuperSport Park,71.0,161.36,41.57,1.0,Finisher / Death Specialist
+C Green,28,707,457,25.25,62,32,3,1,154.7,204.0,307.0,196.0,200.0,130.08,164.71,23.4,"Wankhede Stadium, Mumbai",229.0,174.81,47.59,0.0,Powerplay Dominator
+C de Grandhomme,21,303,224,14.43,18,18,0,0,135.27,160.0,142.0,1.0,142.86,129.09,50.0,15.5,M.Chinnaswamy Stadium,90.0,180.0,31.88,1.0,Finisher / Death Specialist
+CA Lynn,42,1329,941,31.64,132,66,10,0,141.23,36.0,514.0,779.0,105.88,138.92,145.07,37.4,Saurashtra Cricket Association Stadium,93.0,226.83,56.48,0.0,Powerplay Dominator
+CA Pujara,22,390,390,17.73,50,4,1,0,100.0,47.0,128.0,215.0,114.63,105.79,94.3,21.7,Sharjah Cricket Stadium,75.0,107.14,29.7,1.0,Finisher / Death Specialist
+CH Gayle,141,4997,3331,35.44,408,359,38,6,150.02,581.0,2011.0,2405.0,207.5,156.5,136.18,19.3,Saurashtra Cricket Association Stadium,77.0,202.63,71.18,0.0,Powerplay Dominator
+CH Morris,49,618,397,12.61,41,35,2,0,155.67,499.0,102.0,17.0,168.01,109.68,242.86,7.4,Feroz Shah Kotla,142.0,221.88,33.03,1.0,Finisher / Death Specialist
+CJ Anderson,29,538,421,18.55,40,31,3,0,127.79,175.0,311.0,52.0,168.27,121.48,85.25,11.6,Wankhede Stadium,163.0,161.39,33.31,1.0,Finisher / Death Specialist
+CL White,45,971,757,21.58,76,38,6,0,128.27,363.0,501.0,107.0,189.06,111.58,92.24,14.2,Subrata Roy Sahara Stadium,78.0,169.57,37.84,1.0,Finisher / Death Specialist
+D Padikkal,64,1559,1262,24.36,170,42,10,1,123.53,114.0,684.0,761.0,139.02,121.71,123.14,10.5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",51.0,170.0,39.79,1.0,Finisher / Death Specialist
+DA Miller,123,2924,2094,23.77,207,134,14,1,139.64,1298.0,1528.0,98.0,177.08,122.14,89.09,21.4,"Arun Jaitley Stadium, Delhi",100.0,217.39,50.69,0.0,Powerplay Dominator
+DA Warner,184,6567,4682,35.69,663,236,66,4,140.26,628.0,2621.0,3318.0,178.41,135.1,138.83,30.0,JSCA International Stadium Complex,90.0,204.55,76.55,0.0,Powerplay Dominator
+DB Das,22,304,260,13.82,23,16,0,0,116.92,117.0,129.0,58.0,121.88,116.22,109.43,10.1,Eden Gardens,203.0,130.97,26.28,1.0,Finisher / Death Specialist
+DB Ravi Teja,25,375,315,15.0,35,9,1,0,119.05,169.0,153.0,53.0,140.83,111.68,91.38,14.9,Himachal Pradesh Cricket Association Stadium,60.0,146.34,29.19,1.0,Finisher / Death Specialist
+DJ Bravo,110,1560,1196,14.18,120,66,5,0,130.43,909.0,528.0,123.0,176.16,92.63,111.82,7.0,"Sardar Patel Stadium, Motera",62.0,172.22,32.3,1.0,Finisher / Death Specialist
+DJ Hooda,96,1466,1127,15.27,96,61,8,0,130.08,448.0,858.0,160.0,150.34,127.3,103.23,16.0,Sheikh Zayed Stadium,63.0,203.23,35.7,1.0,Finisher / Death Specialist
+DJ Hussey,61,1322,1070,21.67,90,60,5,0,123.55,410.0,778.0,134.0,179.04,107.16,116.52,22.7,"Rajiv Gandhi International Stadium, Uppal",95.0,139.71,40.76,1.0,Finisher / Death Specialist
+DJG Sammy,20,295,241,14.75,15,18,1,0,122.41,136.0,151.0,8.0,141.67,107.86,160.0,11.5,Sawai Mansingh Stadium,60.0,146.34,28.51,1.0,Finisher / Death Specialist
+DP Conway,22,924,651,42.0,100,30,9,0,141.94,86.0,446.0,392.0,156.36,153.26,128.52,49.1,"M Chinnaswamy Stadium, Bengaluru",83.0,184.44,66.38,0.0,Powerplay Dominator
+DPMD Jayawardene,78,1808,1462,23.18,200,40,11,1,123.67,374.0,823.0,611.0,159.83,113.2,121.96,20.3,"Rajiv Gandhi International Stadium, Uppal",56.0,160.0,42.61,1.0,Finisher / Death Specialist
+DR Smith,88,2385,1755,27.1,245,117,17,0,135.9,168.0,1004.0,1213.0,152.73,148.74,125.05,20.2,"Punjab Cricket Association IS Bindra Stadium, Mohali",74.0,189.74,50.58,0.0,Powerplay Dominator
+DS Kulkarni,20,104,108,5.2,7,2,0,0,96.3,99.0,5.0,0.0,101.02,50.0,0.0,4.2,0,0.0,0.0,13.44,1.0,Finisher / Death Specialist
+DT Christian,41,460,394,11.22,23,19,0,0,116.75,309.0,148.0,3.0,140.45,89.16,37.5,4.0,"Rajiv Gandhi International Stadium, Uppal",123.0,136.67,22.86,1.0,Finisher / Death Specialist
+DW Steyn,33,167,160,5.06,14,3,0,0,104.38,163.0,4.0,0.0,107.95,44.44,0.0,4.8,"Rajiv Gandhi International Stadium, Uppal",60.0,113.21,15.21,1.0,Finisher / Death Specialist
+Dhruv Jurel,22,347,229,15.77,29,16,2,0,151.53,254.0,93.0,0.0,172.79,117.72,0.0,17.5,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",52.0,152.94,36.77,1.0,Finisher / Death Specialist
+E Lewis,26,654,477,25.15,62,36,4,0,137.11,32.0,202.0,420.0,152.38,118.82,146.85,22.4,Dubai International Cricket Stadium,100.0,161.29,43.75,1.0,Finisher / Death Specialist
+EJG Morgan,74,1406,1147,19.0,112,64,5,0,122.58,516.0,714.0,176.0,164.33,111.39,91.67,4.1,Brabourne Stadium,70.0,205.88,33.12,1.0,Finisher / Death Specialist
+F du Plessis,138,4571,3345,33.12,422,166,37,0,136.65,568.0,1855.0,2148.0,182.05,126.02,137.6,32.9,Punjab Cricket Association IS Bindra Stadium,96.0,174.55,66.55,0.0,Powerplay Dominator
+G Gambhir,151,4217,3394,27.93,492,59,36,0,124.25,270.0,1670.0,2277.0,145.95,123.98,122.29,17.2,Saurashtra Cricket Association Stadium,76.0,158.33,53.06,0.0,Powerplay Dominator
+GC Smith,29,739,664,25.48,94,9,4,0,111.3,66.0,299.0,374.0,169.23,125.1,96.89,13.6,"MA Chidambaram Stadium, Chepauk",91.0,178.43,36.26,1.0,Finisher / Death Specialist
+GH Vihari,23,284,319,12.35,23,1,0,0,89.03,80.0,145.0,59.0,117.65,90.06,65.56,11.0,Wankhede Stadium,57.0,123.91,19.94,1.0,Finisher / Death Specialist
+GJ Bailey,36,663,541,18.42,59,19,2,0,122.55,327.0,205.0,131.0,176.76,89.52,103.15,13.8,Wankhede Stadium,77.0,160.42,32.99,1.0,Finisher / Death Specialist
+GJ Maxwell,128,2772,1761,21.66,233,160,18,0,157.41,599.0,1740.0,433.0,182.07,154.94,140.13,6.3,Holkar Cricket Stadium,127.0,215.25,47.92,0.0,Powerplay Dominator
+Gurkeerat Singh,32,511,422,15.97,55,11,2,0,121.09,251.0,225.0,35.0,154.94,100.9,94.59,23.8,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,57.0,167.65,33.47,1.0,Finisher / Death Specialist
+H Klaasen,32,993,584,31.03,56,64,7,1,170.03,403.0,528.0,62.0,193.75,156.21,163.16,29.3,"Eden Gardens, Kolkata",79.0,225.71,58.03,0.0,Powerplay Dominator
+HH Gibbs,36,886,805,24.61,83,31,6,0,110.06,72.0,367.0,447.0,160.0,106.69,107.45,26.1,Newlands,56.0,169.7,40.02,1.0,Finisher / Death Specialist
+HH Pandya,128,2534,1730,19.8,189,137,10,0,146.47,1290.0,1075.0,169.0,172.92,132.39,98.26,14.7,"Arun Jaitley Stadium, Delhi",67.0,197.06,45.64,0.0,Powerplay Dominator
+HV Patel,37,249,203,6.73,16,15,0,0,122.66,183.0,66.0,0.0,142.97,88.0,0.0,4.3,Arun Jaitley Stadium,60.0,181.82,20.12,1.0,Finisher / Death Specialist
+Harbhajan Singh,88,833,599,9.47,79,42,1,0,139.07,624.0,147.0,62.0,152.57,105.76,121.57,4.4,Wankhede Stadium,362.0,152.1,27.2,1.0,Finisher / Death Specialist
+Harpreet Brar,24,233,190,9.71,19,9,0,0,122.63,197.0,36.0,0.0,134.01,83.72,0.0,9.4,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",55.0,148.65,23.79,1.0,Finisher / Death Specialist
+I Sharma,21,57,69,2.71,4,2,0,0,82.61,45.0,12.0,0.0,81.82,85.71,0.0,2.3,0,0.0,0.0,8.29,1.0,Finisher / Death Specialist
+IK Pathan,82,1150,947,14.02,88,38,1,0,121.44,663.0,395.0,92.0,150.34,90.39,133.33,6.8,M Chinnaswamy Stadium,78.0,165.96,28.76,1.0,Finisher / Death Specialist
+Ishan Kishan,99,2644,1939,26.71,255,119,16,0,136.36,255.0,1138.0,1251.0,180.85,130.65,134.95,22.8,"Zayed Cricket Stadium, Abu Dhabi",98.0,222.73,51.79,0.0,Powerplay Dominator
+J Botha,28,409,358,14.61,39,5,1,0,114.25,159.0,205.0,45.0,129.27,112.02,86.54,7.7,OUTsurance Oval,37.0,123.33,25.8,1.0,Finisher / Death Specialist
+JA Morkel,67,975,683,14.55,61,55,3,0,142.75,637.0,320.0,18.0,157.67,120.3,138.46,15.7,Sawai Mansingh Stadium,65.0,151.16,35.83,1.0,Finisher / Death Specialist
+JC Archer,23,199,124,8.65,11,14,0,0,160.48,186.0,13.0,0.0,170.64,118.18,0.0,7.7,0,0.0,0.0,29.6,1.0,Finisher / Death Specialist
+JC Buttler,106,3583,2419,33.8,356,161,26,7,148.12,596.0,1374.0,1613.0,200.67,140.2,141.24,34.8,Eden Gardens,80.0,181.82,67.44,0.0,Powerplay Dominator
+JD Ryder,29,604,455,20.83,69,19,4,0,132.75,45.0,119.0,440.0,160.71,114.42,136.22,24.8,Dr DY Patil Sports Academy,146.0,169.77,40.08,1.0,Finisher / Death Specialist
+JD Unadkat,27,197,166,7.3,16,7,0,0,118.67,174.0,23.0,0.0,126.09,82.14,0.0,7.9,0,0.0,0.0,20.67,1.0,Finisher / Death Specialist
+JH Kallis,95,2427,2213,25.55,255,44,17,0,109.67,394.0,997.0,1036.0,172.81,98.71,106.26,21.7,Sheikh Zayed Stadium,94.0,128.77,44.03,1.0,Finisher / Death Specialist
+JJ Bumrah,26,68,77,2.62,5,1,0,0,88.31,63.0,5.0,0.0,87.5,100.0,0.0,1.8,0,0.0,0.0,9.16,1.0,Finisher / Death Specialist
+JJ Roy,21,614,441,29.24,75,21,4,0,139.23,41.0,193.0,380.0,178.26,148.46,131.94,36.3,"Eden Gardens, Kolkata",154.0,179.07,51.18,0.0,Powerplay Dominator
+JM Bairstow,50,1589,1096,31.78,166,69,11,2,144.98,75.0,650.0,864.0,136.36,142.54,147.69,28.9,"Eden Gardens, Kolkata",108.0,225.0,55.68,0.0,Powerplay Dominator
+JM Sharma,36,730,481,20.28,53,45,0,0,151.77,264.0,455.0,11.0,189.93,139.57,68.75,15.1,"Wankhede Stadium, Mumbai",82.0,256.25,40.69,1.0,Finisher / Death Specialist
+JO Holder,27,259,209,9.59,13,18,0,0,123.92,174.0,73.0,12.0,130.83,125.86,66.67,6.2,Sharjah Cricket Stadium,78.0,177.27,23.15,1.0,Finisher / Death Specialist
+JP Duminy,75,2029,1631,27.05,126,79,14,0,124.4,882.0,912.0,235.0,170.93,104.11,98.33,22.7,Dubai International Cricket Stadium,72.0,175.61,47.54,0.0,Powerplay Dominator
+JP Faulkner,45,527,385,11.71,36,23,0,0,136.88,439.0,74.0,14.0,157.35,86.05,70.0,12.4,"Sardar Patel Stadium, Motera",70.0,142.86,29.83,1.0,Finisher / Death Specialist
+K Gowtham,27,247,148,9.15,15,17,0,0,166.89,164.0,75.0,8.0,186.36,136.36,160.0,10.3,Sawai Mansingh Stadium,93.0,216.28,32.14,1.0,Finisher / Death Specialist
+K Rabada,28,206,192,7.36,16,8,0,0,107.29,152.0,53.0,1.0,119.69,85.48,33.33,3.1,Dubai International Cricket Stadium,34.0,113.33,17.12,1.0,Finisher / Death Specialist
+KA Pollard,168,3437,2315,20.46,221,224,16,0,148.47,2032.0,1352.0,53.0,172.2,124.49,108.16,14.1,"Arun Jaitley Stadium, Delhi",103.0,245.24,50.18,0.0,Powerplay Dominator
+KC Sangakkara,68,1687,1385,24.81,195,27,10,0,121.81,202.0,963.0,522.0,157.81,118.89,116.78,13.5,"Punjab Cricket Association Stadium, Mohali",408.0,158.14,40.71,1.0,Finisher / Death Specialist
+KD Karthik,233,4843,3570,20.79,466,161,22,0,135.66,1904.0,2542.0,397.0,174.52,122.57,98.02,24.0,"Dr DY Patil Sports Academy, Mumbai",93.0,221.43,54.08,0.0,Powerplay Dominator
+KH Pandya,107,1647,1239,15.39,144,61,1,0,132.93,669.0,904.0,74.0,160.43,118.79,121.31,13.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,122.0,203.33,35.42,1.0,Finisher / Death Specialist
+KK Nair,68,1496,1169,22.0,161,39,10,0,127.97,275.0,717.0,504.0,177.42,118.71,122.93,9.8,Punjab Cricket Association IS Bindra Stadium,110.0,154.93,38.32,1.0,Finisher / Death Specialist
+KL Rahul,122,4689,3474,38.43,400,187,41,4,134.97,752.0,1927.0,2010.0,177.36,132.8,125.7,39.4,Eden Gardens,61.0,190.62,73.54,0.0,Powerplay Dominator
+KM Jadhav,81,1208,969,14.91,102,40,4,0,124.66,565.0,576.0,67.0,140.9,118.03,83.75,10.7,"Rajiv Gandhi International Stadium, Uppal",59.0,173.53,31.59,1.0,Finisher / Death Specialist
+KP Pietersen,36,1001,742,27.81,91,40,5,1,134.91,123.0,486.0,392.0,178.26,127.89,133.79,30.5,Sawai Mansingh Stadium,98.0,155.56,48.93,0.0,Powerplay Dominator
+KS Williamson,76,2132,1692,28.05,187,64,18,0,126.0,460.0,1189.0,483.0,167.27,126.89,100.63,13.6,M.Chinnaswamy Stadium,151.0,179.76,46.08,0.0,Powerplay Dominator
+KV Sharma,39,351,294,9.0,20,17,0,0,119.39,247.0,97.0,7.0,137.22,92.38,77.78,7.2,Wankhede Stadium,45.0,125.0,22.38,1.0,Finisher / Death Specialist
+Kuldeep Yadav,32,183,216,5.72,16,3,0,0,84.72,163.0,20.0,0.0,90.56,55.56,0.0,6.1,Eden Gardens,27.0,64.29,12.44,1.0,Finisher / Death Specialist
+LMP Simmons,29,1079,848,37.21,109,44,12,1,127.24,56.0,481.0,542.0,155.56,135.11,118.86,27.8,Brabourne Stadium,67.0,152.27,54.37,0.0,Powerplay Dominator
+LR Shukla,33,405,350,12.27,33,16,0,0,115.71,219.0,184.0,2.0,133.54,101.66,40.0,7.5,Eden Gardens,153.0,135.4,24.35,1.0,Finisher / Death Specialist
+LRPL Taylor,54,1017,818,18.83,66,46,3,0,124.33,312.0,550.0,155.0,159.18,109.78,128.1,14.6,SuperSport Park,82.0,221.62,35.2,1.0,Finisher / Death Specialist
+LS Livingstone,39,939,571,24.08,66,66,6,0,164.45,284.0,492.0,163.0,221.88,146.87,150.93,21.8,"Dr DY Patil Sports Academy, Mumbai",112.0,193.1,49.18,0.0,Powerplay Dominator
+Lalit Yadav,21,305,285,14.52,27,7,0,0,107.02,94.0,186.0,25.0,122.08,105.08,80.65,10.3,"Brabourne Stadium, Mumbai",49.0,116.67,24.88,1.0,Finisher / Death Specialist
+M Kaif,22,259,249,11.77,22,6,0,0,104.02,54.0,183.0,22.0,120.0,109.58,59.46,10.7,Eden Gardens,34.0,109.68,22.25,1.0,Finisher / Death Specialist
+M Manhas,38,514,470,13.53,43,10,0,0,109.36,244.0,224.0,46.0,131.89,96.55,86.79,10.2,Subrata Roy Sahara Stadium,75.0,131.58,25.11,1.0,Finisher / Death Specialist
+M Morkel,20,126,89,6.3,11,5,0,0,141.57,116.0,10.0,0.0,145.0,111.11,0.0,6.6,0,0.0,0.0,23.63,1.0,Finisher / Death Specialist
+M Shahrukh Khan,37,553,391,14.95,35,37,1,0,141.43,303.0,227.0,23.0,162.03,121.39,135.29,17.6,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",46.0,153.33,35.03,1.0,Finisher / Death Specialist
+M Vijay,105,2619,2148,24.94,247,91,15,2,121.93,125.0,920.0,1574.0,176.06,131.05,114.47,24.3,"MA Chidambaram Stadium, Chepauk",864.0,137.14,47.95,0.0,Powerplay Dominator
+M Vohra,51,1083,828,21.24,104,43,3,0,130.8,62.0,330.0,691.0,229.63,126.44,127.96,12.6,"Rajiv Gandhi International Stadium, Uppal",187.0,171.56,37.73,1.0,Finisher / Death Specialist
+MA Agarwal,121,2669,1990,22.06,265,98,14,1,134.12,247.0,1033.0,1389.0,211.11,138.66,123.14,26.9,Sharjah Cricket Stadium,219.0,165.91,48.93,0.0,Powerplay Dominator
+MC Henriques,54,1000,785,18.52,87,28,5,0,127.39,335.0,504.0,161.0,165.84,113.51,115.83,17.0,Shaheed Veer Narayan Singh International Stadium,92.0,155.93,36.12,1.0,Finisher / Death Specialist
+MEK Hussey,58,1977,1610,34.09,198,52,16,1,122.8,261.0,888.0,828.0,191.91,125.42,108.09,26.6,"Punjab Cricket Association Stadium, Mohali",209.0,167.2,53.44,0.0,Powerplay Dominator
+MG Johnson,28,167,163,5.96,10,7,0,0,102.45,157.0,10.0,0.0,109.79,50.0,0.0,5.5,Wankhede Stadium,32.0,106.67,15.79,1.0,Finisher / Death Specialist
+MJ McClenaghan,20,85,69,4.25,5,7,0,0,123.19,56.0,29.0,0.0,114.29,152.63,0.0,3.6,Wankhede Stadium,49.0,140.0,17.63,1.0,Finisher / Death Specialist
+MK Lomror,35,527,372,15.06,33,30,1,0,141.67,230.0,266.0,31.0,161.97,138.54,81.58,12.5,"M Chinnaswamy Stadium, Bengaluru",151.0,167.78,33.43,1.0,Finisher / Death Specialist
+MK Pandey,158,3859,3174,24.42,335,111,23,1,121.58,673.0,2053.0,1133.0,150.22,118.26,114.44,20.2,"Zayed Cricket Stadium, Abu Dhabi",69.0,172.5,49.99,0.0,Powerplay Dominator
+MK Tiwary,83,1695,1444,20.42,156,40,7,0,117.38,597.0,874.0,224.0,145.97,108.44,97.82,18.9,Feroz Shah Kotla,227.0,127.53,38.27,1.0,Finisher / Death Specialist
+ML Hayden,32,1107,799,34.59,121,44,8,0,138.55,96.0,412.0,599.0,195.92,140.61,131.07,15.0,Feroz Shah Kotla,93.0,216.28,50.29,0.0,Powerplay Dominator
+MM Ali,57,1162,818,20.39,95,67,6,0,142.05,279.0,654.0,229.0,180.0,135.4,127.22,17.8,M.Chinnaswamy Stadium,140.0,170.73,41.54,1.0,Finisher / Death Specialist
+MM Sharma,28,124,133,4.43,9,4,0,0,93.23,88.0,36.0,0.0,102.33,76.6,0.0,2.4,0,0.0,0.0,11.81,1.0,Finisher / Death Specialist
+MP Stoinis,88,1866,1308,21.2,150,91,10,1,142.66,750.0,835.0,281.0,168.92,129.86,127.15,28.4,"M Chinnaswamy Stadium, Bengaluru",89.0,197.78,48.0,0.0,Powerplay Dominator
+MR Marsh,36,665,521,18.47,48,38,3,0,127.64,168.0,274.0,223.0,143.59,111.84,140.25,18.5,"Dr DY Patil Sports Academy, Mumbai",177.0,136.15,35.76,1.0,Finisher / Death Specialist
+MS Bisla,39,798,700,20.46,93,23,4,0,114.0,52.0,272.0,474.0,157.58,116.24,109.47,11.8,"MA Chidambaram Stadium, Chepauk",215.0,147.26,32.8,1.0,Finisher / Death Specialist
+MS Dhoni,228,5243,3790,23.0,363,252,24,0,138.34,3292.0,1892.0,59.0,178.04,101.23,81.94,12.4,M.Chinnaswamy Stadium,154.0,190.12,55.06,0.0,Powerplay Dominator
+MV Boucher,23,394,307,17.13,32,13,1,0,128.34,235.0,137.0,22.0,162.07,99.28,91.67,10.6,St George's Park,84.0,137.7,31.31,1.0,Finisher / Death Specialist
+Mandeep Singh,97,1706,1385,17.59,176,38,6,0,123.18,410.0,663.0,633.0,149.64,118.6,114.67,12.7,Eden Gardens,140.0,150.54,35.28,1.0,Finisher / Death Specialist
+Mohammed Shami,23,74,79,3.22,6,2,0,0,93.67,59.0,15.0,0.0,90.77,107.14,0.0,2.8,0,0.0,0.0,10.95,1.0,Finisher / Death Specialist
+Mohammed Siraj,20,109,117,5.45,10,4,0,0,93.16,109.0,0.0,0.0,93.16,0.0,0.0,6.3,0,0.0,0.0,13.72,1.0,Finisher / Death Specialist
+N Pooran,72,1769,1090,24.57,113,127,9,0,162.29,714.0,982.0,73.0,170.41,158.13,146.0,32.1,"M Chinnaswamy Stadium, Bengaluru",102.0,255.0,55.43,0.0,Powerplay Dominator
+N Rana,101,2636,1946,26.1,234,132,18,0,135.46,406.0,1581.0,649.0,180.44,134.67,118.65,30.1,Green Park,70.0,200.0,53.7,0.0,Powerplay Dominator
+NLTC Perera,30,424,306,14.13,23,26,0,0,138.56,267.0,137.0,20.0,153.45,117.09,133.33,15.0,M Chinnaswamy Stadium,54.0,174.19,32.54,1.0,Finisher / Death Specialist
+NV Ojha,94,1554,1308,16.53,121,79,6,0,118.81,411.0,649.0,494.0,140.75,121.31,102.7,11.9,"MA Chidambaram Stadium, Chepauk",144.0,151.58,33.6,1.0,Finisher / Death Specialist
+OA Shah,22,506,388,23.0,34,23,4,0,130.41,269.0,214.0,23.0,157.31,107.54,127.78,16.1,Wankhede Stadium,76.0,180.95,38.39,1.0,Finisher / Death Specialist
+P Kumar,57,340,312,5.96,22,17,0,0,108.97,294.0,40.0,6.0,113.51,88.89,75.0,4.8,M Chinnaswamy Stadium,93.0,108.14,17.38,1.0,Finisher / Death Specialist
+P Negi,35,365,288,10.43,27,16,0,0,126.74,257.0,104.0,4.0,141.99,102.97,66.67,8.6,"MA Chidambaram Stadium, Chepauk",59.0,178.79,25.29,1.0,Finisher / Death Specialist
+P Simran Singh,34,756,516,22.24,78,41,4,1,146.51,53.0,204.0,499.0,155.88,146.76,145.48,22.9,"Barsapara Cricket Stadium, Guwahati",66.0,173.68,43.95,0.0,Powerplay Dominator
+PA Patel,136,2848,2350,20.94,365,49,13,0,121.19,95.0,849.0,1904.0,133.8,118.25,121.97,23.5,Holkar Cricket Stadium,98.0,178.18,44.19,1.0,Finisher / Death Specialist
+PC Valthaty,23,505,414,21.96,61,20,3,1,121.98,46.0,147.0,312.0,209.09,124.58,113.87,12.3,"Punjab Cricket Association Stadium, Mohali",217.0,145.64,34.87,1.0,Finisher / Death Specialist
+PD Salt,21,653,368,31.1,74,34,6,0,177.45,35.0,214.0,404.0,184.21,178.33,176.42,35.1,"Eden Gardens, Kolkata",350.0,189.19,59.81,0.0,Powerplay Dominator
+PJ Cummins,39,515,342,13.21,33,34,3,0,150.58,370.0,145.0,0.0,159.48,133.03,0.0,13.6,"Wankhede Stadium, Mumbai",111.0,198.21,34.21,1.0,Finisher / Death Specialist
+PP Chawla,86,624,561,7.26,56,20,0,0,111.23,453.0,156.0,15.0,122.1,88.14,115.38,4.0,"Punjab Cricket Association Stadium, Mohali",120.0,126.32,19.28,1.0,Finisher / Death Specialist
+PP Shaw,79,1892,1280,23.95,238,61,14,0,147.81,30.0,515.0,1347.0,142.86,150.58,146.89,25.7,"Dr DY Patil Sports Academy, Mumbai",61.0,179.41,49.96,0.0,Powerplay Dominator
+Q de Kock,107,3160,2349,29.53,316,123,25,2,134.53,186.0,1131.0,1843.0,202.17,131.97,131.64,24.6,M Chinnaswamy Stadium,183.0,190.62,56.27,0.0,Powerplay Dominator
+R Ashwin,89,800,674,8.99,61,28,1,0,118.69,476.0,266.0,58.0,134.46,102.31,96.67,9.6,"Brabourne Stadium, Mumbai",52.0,162.5,24.32,1.0,Finisher / Death Specialist
+R Bhatia,47,342,284,7.28,24,13,0,0,120.42,251.0,91.0,0.0,145.93,81.25,0.0,6.7,Feroz Shah Kotla,47.0,146.88,21.06,1.0,Finisher / Death Specialist
+R Dhawan,22,210,187,9.55,18,7,0,0,112.3,168.0,42.0,0.0,127.27,76.36,0.0,9.7,"Punjab Cricket Association Stadium, Mohali",44.0,122.22,21.73,1.0,Finisher / Death Specialist
+R Dravid,82,2174,1878,26.51,269,28,11,0,115.76,200.0,1069.0,905.0,168.07,114.95,109.17,24.9,Newlands,114.0,152.0,45.65,1.0,Finisher / Death Specialist
+R Parag,58,1173,865,20.22,84,60,6,0,135.61,483.0,640.0,50.0,160.47,124.51,100.0,38.8,"Maharashtra Cricket Association Stadium, Pune",68.0,170.0,46.59,1.0,Finisher / Death Specialist
+R Powell,22,360,244,16.36,21,28,1,0,147.54,229.0,131.0,0.0,197.41,102.34,0.0,11.0,"Brabourne Stadium, Mumbai",75.0,174.42,34.6,1.0,Finisher / Death Specialist
+R Sathish,24,270,230,11.25,22,6,0,0,117.39,164.0,106.0,0.0,138.98,100.95,0.0,12.5,Brabourne Stadium,68.0,144.68,24.96,1.0,Finisher / Death Specialist
+R Tewatia,65,1013,748,15.58,84,47,1,0,135.43,709.0,298.0,6.0,168.41,93.12,85.71,19.1,"Brabourne Stadium, Mumbai",59.0,184.38,36.13,1.0,Finisher / Death Specialist
+R Vinay Kumar,42,310,274,7.38,21,9,0,0,113.14,262.0,48.0,0.0,115.93,100.0,0.0,8.5,Wankhede Stadium,38.0,115.15,20.18,1.0,Finisher / Death Specialist
+RA Jadeja,180,2959,2267,16.44,215,107,3,0,130.52,1680.0,1219.0,60.0,151.62,110.62,105.26,24.2,"M Chinnaswamy Stadium, Bengaluru",52.0,173.33,43.26,1.0,Finisher / Death Specialist
+RA Tripathi,93,2236,1598,24.04,223,84,12,0,139.92,219.0,1040.0,977.0,146.98,136.66,142.01,24.8,Eden Gardens,140.0,175.0,49.32,0.0,Powerplay Dominator
+RD Chahar,22,129,124,5.86,13,5,0,0,104.03,125.0,4.0,0.0,115.74,25.0,0.0,8.6,"Brabourne Stadium, Mumbai",48.0,133.33,16.85,1.0,Finisher / Death Specialist
+RD Gaikwad,65,2380,1730,36.62,217,91,20,2,137.57,257.0,995.0,1128.0,173.65,142.75,127.46,49.5,"Narendra Modi Stadium, Ahmedabad",118.0,171.01,67.1,0.0,Powerplay Dominator
+RG Sharma,251,6630,5039,26.41,599,281,45,2,131.57,1513.0,2980.0,2137.0,182.29,120.79,122.68,29.9,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",54.0,180.0,67.17,0.0,Powerplay Dominator
+RJ Harris,21,117,111,5.57,6,3,0,0,105.41,97.0,20.0,0.0,112.79,80.0,0.0,5.0,0,0.0,0.0,15.72,1.0,Finisher / Death Specialist
+RK Singh,40,893,617,22.32,67,46,4,0,144.73,499.0,358.0,36.0,185.5,110.84,144.0,14.5,"Eden Gardens, Kolkata",383.0,158.26,41.38,1.0,Finisher / Death Specialist
+RM Patidar,24,799,502,33.29,51,54,8,1,159.16,72.0,557.0,170.0,240.0,166.77,123.19,37.4,"Eden Gardens, Kolkata",164.0,215.79,59.6,0.0,Powerplay Dominator
+RN ten Doeschate,21,326,235,15.52,26,15,1,0,138.72,212.0,108.0,6.0,151.43,122.73,85.71,11.3,JSCA International Stadium Complex,53.0,143.24,32.13,1.0,Finisher / Death Specialist
+RP Singh,28,52,76,1.86,2,1,0,0,68.42,50.0,2.0,0.0,71.43,33.33,0.0,0.8,0,0.0,0.0,4.49,1.0,Finisher / Death Specialist
+RR Pant,110,3297,2206,29.97,298,154,19,1,149.46,923.0,1984.0,390.0,204.66,137.02,127.04,34.9,Wankhede Stadium,125.0,227.27,62.86,0.0,Powerplay Dominator
+RR Rossouw,22,473,306,21.5,45,25,2,0,154.58,82.0,252.0,139.0,210.26,150.0,140.4,29.3,"Himachal Pradesh Cricket Association Stadium, Dharamsala",143.0,213.43,45.71,1.0,Finisher / Death Specialist
+RS Bopara,22,531,453,24.14,39,16,3,0,117.22,179.0,222.0,130.0,172.12,108.29,90.28,19.5,M Chinnaswamy Stadium,77.0,154.0,37.7,1.0,Finisher / Death Specialist
+RV Uthappa,197,4954,3784,25.15,481,182,27,0,130.92,567.0,2350.0,2037.0,175.54,128.49,124.82,20.2,"Brabourne Stadium, Mumbai",63.0,170.27,56.16,0.0,Powerplay Dominator
+Rashid Khan,58,545,331,9.4,39,38,1,0,164.65,475.0,70.0,0.0,172.1,127.27,0.0,10.7,"Wankhede Stadium, Mumbai",129.0,263.27,33.13,1.0,Finisher / Death Specialist
+S Badrinath,65,1441,1208,22.17,154,28,11,0,119.29,422.0,837.0,182.0,153.45,120.09,77.12,17.3,Himachal Pradesh Cricket Association Stadium,53.0,147.22,38.89,1.0,Finisher / Death Specialist
+S Dhawan,221,6769,5304,30.63,768,153,53,2,127.62,668.0,2686.0,3415.0,159.81,127.0,123.24,26.3,Himachal Pradesh Cricket Association Stadium,95.0,166.67,67.53,0.0,Powerplay Dominator
+S Dube,61,1502,1022,24.62,86,101,9,0,146.97,521.0,951.0,30.0,175.42,138.83,75.0,24.8,"Brabourne Stadium, Mumbai",106.0,179.66,49.3,0.0,Powerplay Dominator
+S Gopal,22,180,169,8.18,19,2,0,0,106.51,135.0,45.0,0.0,129.81,73.77,0.0,8.3,Dubai International Cricket Stadium,34.0,100.0,19.04,1.0,Finisher / Death Specialist
+S Nadeem,20,39,87,1.95,2,0,0,0,44.83,30.0,9.0,0.0,45.45,42.86,0.0,2.1,0,0.0,0.0,0.47,1.0,Finisher / Death Specialist
+S Sohal,20,368,289,18.4,34,18,2,0,127.34,4.0,85.0,279.0,44.44,134.92,128.57,24.9,"MA Chidambaram Stadium, Chepauk",56.0,186.67,36.54,1.0,Finisher / Death Specialist
+SA Yadav,135,3594,2462,26.62,385,130,26,2,145.98,694.0,2041.0,859.0,178.41,139.51,140.82,34.5,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",66.0,212.9,60.55,0.0,Powerplay Dominator
+SC Ganguly,56,1349,1257,24.09,137,42,7,0,107.32,190.0,630.0,529.0,186.27,98.75,102.32,20.7,"Rajiv Gandhi International Stadium, Uppal",123.0,139.77,38.83,1.0,Finisher / Death Specialist
+SE Marsh,69,2489,1866,36.07,269,78,21,1,133.39,262.0,1448.0,779.0,161.73,149.12,106.28,31.0,"Sardar Patel Stadium, Motera",77.0,175.0,60.23,0.0,Powerplay Dominator
+SK Raina,200,5536,4025,27.68,506,204,40,1,137.54,899.0,3077.0,1560.0,172.55,131.55,133.91,10.6,"Punjab Cricket Association IS Bindra Stadium, Mohali",59.0,173.53,59.04,0.0,Powerplay Dominator
+SK Warne,27,198,213,7.33,14,6,0,0,92.96,137.0,61.0,0.0,104.58,74.39,0.0,2.0,Newlands,39.0,88.64,14.01,1.0,Finisher / Death Specialist
+SL Malinga,20,88,99,4.4,6,5,0,0,88.89,86.0,2.0,0.0,89.58,66.67,0.0,2.4,0,0.0,0.0,10.89,1.0,Finisher / Death Specialist
+SM Curran,48,883,643,18.4,74,37,5,0,137.33,424.0,336.0,123.0,181.2,110.16,118.27,18.4,"Wankhede Stadium, Mumbai",107.0,201.89,38.16,1.0,Finisher / Death Specialist
+SN Khan,36,585,444,16.25,63,14,1,0,131.76,280.0,216.0,89.0,166.67,103.85,130.88,14.4,M Chinnaswamy Stadium,103.0,223.91,32.96,1.0,Finisher / Death Specialist
+SN Thakur,35,307,220,8.77,27,13,1,0,139.55,202.0,105.0,0.0,145.32,136.36,0.0,5.8,"Eden Gardens, Kolkata",84.0,171.43,25.48,1.0,Finisher / Death Specialist
+SO Hetmyer,65,1243,807,19.12,76,82,4,0,154.03,791.0,392.0,60.0,182.26,123.66,107.14,15.9,"Barsapara Cricket Stadium, Guwahati",75.0,197.37,42.55,1.0,Finisher / Death Specialist
+SP Goswami,21,293,293,13.95,32,3,1,0,100.0,26.0,104.0,163.0,118.18,98.11,98.79,9.8,M Chinnaswamy Stadium,72.0,109.09,22.95,1.0,Finisher / Death Specialist
+SP Narine,106,1534,924,14.47,164,97,8,1,166.02,156.0,432.0,946.0,128.93,171.43,171.69,32.7,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",85.0,217.95,47.82,0.0,Powerplay Dominator
+SPD Smith,93,2495,1931,26.83,226,60,12,1,129.21,706.0,1279.0,510.0,165.73,117.23,123.19,19.8,Brabourne Stadium,82.0,160.78,48.29,0.0,Powerplay Dominator
+SR Tendulkar,78,2334,1941,29.92,296,29,14,1,120.25,224.0,967.0,1143.0,164.71,116.79,116.99,21.9,"Brabourne Stadium, Mumbai",72.0,138.46,48.85,0.0,Powerplay Dominator
+SR Watson,141,3880,2801,27.52,377,190,25,4,138.52,453.0,2006.0,1421.0,187.19,154.07,113.05,29.5,Subrata Roy Sahara Stadium,90.0,176.47,60.02,0.0,Powerplay Dominator
+SS Iyer,114,3131,2449,27.46,272,113,21,0,127.85,489.0,1762.0,880.0,167.47,129.65,110.28,26.0,Green Park,96.0,168.42,53.19,0.0,Powerplay Dominator
+SS Tiwary,73,1494,1235,20.47,111,50,8,0,120.97,454.0,871.0,169.0,145.51,114.01,106.29,27.0,Dr DY Patil Sports Academy,65.0,141.3,41.18,1.0,Finisher / Death Specialist
+ST Jayasuriya,30,768,529,25.6,84,39,5,1,145.18,0.0,254.0,514.0,0.0,153.94,141.21,11.7,Wankhede Stadium,211.0,229.35,42.83,0.0,Powerplay Dominator
+STR Binny,66,880,682,13.33,66,35,0,0,129.03,397.0,465.0,18.0,151.53,117.72,72.0,11.4,M Chinnaswamy Stadium,104.0,173.33,30.31,1.0,Finisher / Death Specialist
+SV Samson,162,4419,3167,27.28,352,206,28,3,139.53,780.0,2419.0,1220.0,191.65,137.52,121.88,28.5,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",71.0,215.15,61.36,0.0,Powerplay Dominator
+SW Billings,27,503,385,18.63,40,20,3,0,130.65,118.0,260.0,125.0,168.57,119.27,128.87,16.9,Feroz Shah Kotla,154.0,148.08,35.3,1.0,Finisher / Death Specialist
+Sandeep Sharma,25,54,69,2.16,4,0,0,0,78.26,42.0,12.0,0.0,77.78,80.0,0.0,2.3,0,0.0,0.0,7.03,1.0,Finisher / Death Specialist
+Shahbaz Ahmed,37,536,438,14.49,28,25,1,0,122.37,257.0,258.0,21.0,146.86,108.86,80.77,17.7,"Wankhede Stadium, Mumbai",87.0,147.46,30.92,1.0,Finisher / Death Specialist
+Shakib Al Hasan,52,795,635,15.29,73,21,2,0,125.2,329.0,429.0,37.0,141.81,117.21,100.0,11.9,Wankhede Stadium,105.0,138.16,30.92,1.0,Finisher / Death Specialist
+Shubman Gill,99,3216,2360,32.48,310,95,24,4,136.27,371.0,1413.0,1432.0,152.05,140.04,129.36,38.7,"M Chinnaswamy Stadium, Bengaluru",106.0,182.76,63.09,0.0,Powerplay Dominator
+TA Boult,22,83,78,3.77,5,3,0,0,106.41,76.0,7.0,0.0,107.04,100.0,0.0,5.8,0,0.0,0.0,14.73,1.0,Finisher / Death Specialist
+TH David,35,659,385,18.83,38,46,0,0,171.17,540.0,119.0,0.0,192.86,113.33,0.0,23.0,"Wankhede Stadium, Mumbai",325.0,190.06,45.53,1.0,Finisher / Death Specialist
+TL Suman,39,676,573,17.33,55,26,2,0,117.98,144.0,347.0,185.0,135.85,121.33,102.21,7.8,De Beers Diamond Oval,56.0,155.56,29.59,1.0,Finisher / Death Specialist
+TM Dilshan,50,1153,1001,23.06,140,24,9,0,115.18,199.0,466.0,488.0,174.56,104.02,111.16,20.9,Kingsmead,129.0,163.29,38.99,1.0,Finisher / Death Specialist
+TM Head,25,772,441,30.88,76,40,6,1,175.06,100.0,260.0,412.0,181.82,146.07,198.08,33.2,"Arun Jaitley Stadium, Delhi",89.0,278.12,59.11,0.0,Powerplay Dominator
+Tilak Varma,38,1156,787,30.42,90,58,6,0,146.89,297.0,750.0,109.0,182.21,139.93,123.86,29.5,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",101.0,202.0,53.41,0.0,Powerplay Dominator
+UBT Chand,20,300,299,15.0,32,9,1,0,100.33,30.0,150.0,120.0,166.67,107.91,84.51,16.8,M Chinnaswamy Stadium,58.0,156.76,26.05,1.0,Finisher / Death Specialist
+UT Yadav,48,208,201,4.33,16,9,0,0,103.48,205.0,3.0,0.0,109.04,23.08,0.0,4.6,0,0.0,0.0,14.62,1.0,Finisher / Death Specialist
+V Kohli,244,8014,6051,32.84,708,273,64,8,132.44,1469.0,3736.0,2809.0,188.58,124.62,123.53,42.5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",92.0,195.74,81.32,0.0,Powerplay Dominator
+V Sehwag,104,2728,1740,26.23,334,106,18,2,156.78,73.0,1062.0,1593.0,221.21,173.81,145.35,22.8,"Sardar Patel Stadium, Motera",76.0,200.0,55.69,0.0,Powerplay Dominator
+V Shankar,58,1115,857,19.22,80,45,6,0,130.11,490.0,521.0,104.0,168.38,114.51,93.69,17.9,Maharashtra Cricket Association Stadium,54.0,174.19,38.02,1.0,Finisher / Death Specialist
+VR Iyer,49,1326,966,27.06,121,61,12,1,137.27,91.0,643.0,592.0,131.88,142.57,132.74,30.8,"Narendra Modi Stadium, Ahmedabad",134.0,197.06,50.45,0.0,Powerplay Dominator
+VVS Laxman,20,282,266,14.1,33,5,1,0,106.02,3.0,92.0,187.0,50.0,126.03,100.0,10.8,Dr DY Patil Sports Academy,59.0,137.21,24.5,1.0,Finisher / Death Specialist
+WP Saha,143,2934,2296,20.52,296,87,14,1,127.79,557.0,988.0,1389.0,157.79,110.02,132.92,19.0,"Arun Jaitley Stadium, Delhi",53.0,165.62,44.66,0.0,Powerplay Dominator
+Washington Sundar,38,378,324,9.95,32,9,0,0,116.67,253.0,108.0,17.0,143.75,87.1,70.83,10.0,M.Chinnaswamy Stadium,58.0,187.1,23.4,1.0,Finisher / Death Specialist
+Y Nagar,20,285,259,14.25,20,9,0,0,110.04,179.0,104.0,2.0,140.94,80.62,66.67,16.4,Feroz Shah Kotla,155.0,130.25,27.1,1.0,Finisher / Death Specialist
+Y Venugopal Rao,52,985,832,18.94,77,37,3,0,118.39,387.0,522.0,76.0,155.42,107.19,79.17,15.8,Sawai Mansingh Stadium,83.0,162.75,34.33,1.0,Finisher / Death Specialist
+YBK Jaiswal,52,1607,1062,30.9,199,64,11,2,151.32,64.0,534.0,1009.0,213.33,142.02,153.81,37.2,"Eden Gardens, Kolkata",120.0,187.5,58.75,0.0,Powerplay Dominator
+YK Pathan,153,3222,2233,21.06,263,161,15,1,144.29,1126.0,1735.0,361.0,161.78,134.08,148.56,11.2,Brabourne Stadium,144.0,202.82,47.59,0.0,Powerplay Dominator
+Yuvraj Singh,126,2754,2115,21.86,218,149,13,0,130.21,906.0,1655.0,193.0,183.4,115.33,103.76,16.3,Eden Gardens,127.0,164.94,45.51,0.0,Powerplay Dominator
+Z Khan,27,117,140,4.33,11,2,0,0,83.57,108.0,9.0,0.0,100.0,31.03,0.0,1.9,M Chinnaswamy Stadium,44.0,95.65,9.71,1.0,Finisher / Death Specialist
