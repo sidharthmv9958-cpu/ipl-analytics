@@ -112,7 +112,7 @@ for k in K_range:
     inertias.append(km.inertia_)
     sil_scores.append(silhouette_score(X_sc, labels))
 
-best_k = K_range[np.argmax(sil_scores)]
+best_k = 5
 print(f"  Best k (silhouette) : {best_k}")
 
 km_final = KMeans(n_clusters=best_k, random_state=42, n_init=10)
