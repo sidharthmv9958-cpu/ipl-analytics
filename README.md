@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Try the app here](https://ipl-analytics-nx2k2y7sc8xl96hbtc6p84.streamlit.app/)**
+👉 **[Try the app here](https://sidharthmv9958-cpu-ipl-analytics-dashboardapp-3ucqvt.streamlit.app/)**
 
 ![App Screenshot](screenshot.png)
 
